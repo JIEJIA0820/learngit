@@ -1,2 +1,2 @@
-Git is a distributed JIEJIA version control system.
+Git is a distributed JIEJIA RUIJIA version control system.
 Git is free software.
